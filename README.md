@@ -3,7 +3,7 @@
   312581025洪嘉伶  
   
 
-<span style="font-size: 20px;">• 資料分析：</span>  
+<span style="font-size: 24px;">• 資料分析：</span>  
         看每個特徵值和房價的趨勢圖，可以發現bedrooms、bathrooms、sqft_living、sqft_lot、grade、sqft_above、sqft_basement、lat、long、sqft_living15、sqft_lot15幾項特徵和價格較有關係。
   ![1](https://github.com/312581025/House-Sale-Price-Prediction/assets/144907093/2b7dfef1-922f-45ef-a522-cc09f1716c60)
   ![2](https://github.com/312581025/House-Sale-Price-Prediction/assets/144907093/a761f8e8-ac6f-40cd-b37c-115a27f67998)
