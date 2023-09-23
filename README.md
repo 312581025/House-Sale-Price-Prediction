@@ -15,7 +15,7 @@
 
   
 ## • 程式寫法：   
-  如House Sale Price Prediction.py檔案
+  1.如House Sale Price Prediction.py檔案
 
 
     
@@ -24,6 +24,8 @@
         2.類神經網路模型的建立也是預測結果的一個重點，將layer設多層一點也可以增加預測結果準確度。
   
   
-## • 檢討與改進：   
+## • 檢討與改進：  
+1.可以再嘗試看看用別的模型。
+2.使用不同優化器或loss funtion或許會有不同結果。
 
 
