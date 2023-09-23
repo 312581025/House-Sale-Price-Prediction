@@ -1,4 +1,4 @@
-![image](https://github.com/312581025/House-Sale-Price-Prediction/assets/144907093/4fe7174e-7a1a-4551-8123-981c9de214da)# House-Sale-Price-Prediction
+# House-Sale-Price-Prediction
 
 • 資料分析
   ![1](https://github.com/312581025/House-Sale-Price-Prediction/assets/144907093/13636451-37d0-42f9-a427-5a5c7a316068)
