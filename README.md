@@ -1,4 +1,7 @@
-# House-Sale-Price-Prediction
+# House-Sale-Price-Prediction  
+
+  312581025洪嘉伶  
+  
 
 • 資料分析：  
         看每個特徵值和房價的趨勢圖，可以發現bedrooms、bathrooms、sqft_living、sqft_lot、grade、sqft_above、sqft_basement、lat、long、sqft_living15、sqft_lot15幾項特徵和價格較有關係。
@@ -14,9 +17,9 @@
   如House Sale Price Prediction.py檔案
   
 • 結果分析：  
+        1.經過實驗結果可知，經過越多次的訓練能讓模型預測結果更準。  
+        2.類神經網路模型的建立也是預測結果的一個重點，將layer設多層一點也可以增加預測結果準確度。
   
   
 • 檢討與改進：  
-        1.經過實驗結果可知，經過越多次的訓練能讓模型預測結果更準，類神經網路模型的建立也是預測結果的一個重點。
-        
-         2.
+
